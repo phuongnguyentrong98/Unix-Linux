@@ -31,7 +31,7 @@ Unix / Linux
   4.Kernel trong Linux :
   - Kernel là một chương trình máy tính điều khiển mọi thứ khác, nó là hạt nhân - trái tim của hệ điều hành! Bất cứ điều gì xảy ra trên máy tính đều đi qua nó. Đó là chương trình cốt lõi trong hệ điều hành, cũng là chương trình đầu tiên tải sau bộ nạp khởi động. 
   - Với hầu hết các kernel hiện nay, chúng ta có thể chia ra làm 3 loại: Monolithic Kernel (Kernel nguyên khối), Microkernel (Kernel vi mô ), và HybridKernel ( Kernel lai ).
-  * Linux sử dụng kernel monolithic có :
+   ##Linux sử dụng kernel monolithic có :##
    - Ưu điểm:
      - Truy cập trực tiếp đến các phần cứng
      - Dễ dàng xử lý các tín hiệu và liên lạc giữa nhiều thành phần với nhau
