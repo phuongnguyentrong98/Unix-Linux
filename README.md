@@ -39,7 +39,7 @@ Unix / Linux
      - Nếu được hỗ trợ đầy đủ, hệ thống phần cứng sẽ không cần cài đặt thêm driver cũng như phần mềm khác
      - Quá trình xử lý và tương tác nhanh hơn vì không cần phải chờ đợi
 
-   -Nhược điểm:
+   - Nhược điểm:
      - Tiêu tốn nhiều footprint cài đặt và lưu trữ
      - Tính bảo mật kém hơn vì tất cả đều hoạt động trong chế độ giám sát - supervisor mode
 
