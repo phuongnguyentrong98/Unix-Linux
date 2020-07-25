@@ -46,7 +46,7 @@ Unix / Linux
    - Không gian người dùng, là một tập hợp các vị trí nơi các quy trình người dùng bình thường chạy (nghĩa là mọi thứ khác ngoài kernel). Vai trò của kernel là quản lý các ứng dụng đang chạy trong không gian này khỏi sự lộn xộn với nhau và máy.
    - Không gian kernel, là vị trí lưu trữ mã của kernel và thực thi theo.
    
-          ![Alt tag](https://user-images.githubusercontent.com/68736233/88463418-dd59d380-cedc-11ea-956e-f7f96b90c403.png)
+          *![Alt tag](https://user-images.githubusercontent.com/68736233/88463418-dd59d380-cedc-11ea-956e-f7f96b90c403.png)
     Hình minh họa các Ring trong kiến trúc CPU
 
    -Nhân Linux chỉ sử dụng 0 và 3:
