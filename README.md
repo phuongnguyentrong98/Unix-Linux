@@ -4,7 +4,7 @@ Unix / Linux
 
   1. Unix là gì?
 
-![Alt tag](https://github.com/phuongnguyentrong98/Unix-Linux/issues/1#issue-665612698)
+![Alt tag](https://user-images.githubusercontent.com/68736233/88461411-6c5eef80-cecd-11ea-9101-526927762a34.png)
 
  - UNIX là một hệ điều hành máy tính viết vào những năm 1960 và 1970 do một số nhân viên của công ty AT&T Bell Labs.
  - Unix là một hệ điều hành đa nhiệm, viết bằng ngôn ngữ lập trình C. Unix có các công cụ đơn giản được thiết lập theo module. Chúng có thể chạy trên nhiều loại máy tính khác nhau.
@@ -12,7 +12,7 @@ Unix / Linux
 
   2. Linux là gì?
 
-![Alt tag](https://github.com/phuongnguyentrong98/Unix-Linux/issues/2#issue-665613158)
+![Alt tag](https://user-images.githubusercontent.com/68736233/88461437-b0ea8b00-cecd-11ea-999d-b7b0d3938c5f.png)
 
  Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí hay được biết đến là một hệ điều hành nguồn mở dựa trên Unix.  Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác.
 
@@ -46,7 +46,7 @@ Unix / Linux
    - Không gian người dùng, là một tập hợp các vị trí nơi các quy trình người dùng bình thường chạy (nghĩa là mọi thứ khác ngoài kernel). Vai trò của kernel là quản lý các ứng dụng đang chạy trong không gian này khỏi sự lộn xộn với nhau và máy.
    - Không gian kernel, là vị trí lưu trữ mã của kernel và thực thi theo.
    
-   ![Alt tag](https://github.com/phuongnguyentrong98/Unix-Linux/issues/3#issue-665630611)
+   ![Alt tag](https://user-images.githubusercontent.com/68736233/88463418-dd59d380-cedc-11ea-956e-f7f96b90c403.png)
     Hình minh họa các Ring trong kiến trúc CPU
 
    -Nhân Linux chỉ sử dụng 0 và 3:
