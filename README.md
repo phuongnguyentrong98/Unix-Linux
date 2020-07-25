@@ -9,12 +9,16 @@ Unix / Linux
  - UNIX là một hệ điều hành máy tính viết vào những năm 1960 và 1970 do một số nhân viên của công ty AT&T Bell Labs.
  - Unix là một hệ điều hành đa nhiệm, viết bằng ngôn ngữ lập trình C. Unix có các công cụ đơn giản được thiết lập theo module. Chúng có thể chạy trên nhiều loại máy tính khác nhau.
  - Hệ điều hành Unix là tập hợp các chương trình mà thực hiện vai trò như một đường link giữa máy tính và người sử dụng. Các chương trình máy tính phân cấp các nguồn hệ thống và phối hợp tất cả các phần bên trong của máy tính được gọi là Hệ điều hành hoặc kernel.Hiện nay có khá nhiều phiên bản khác nhau của Unix trên thị trường. Trong đó Linux là một phiên bản miễn phí của hệ điều hành này.
+ 
+ ========
 
   2. Linux là gì?
 
 ![Alt tag](https://user-images.githubusercontent.com/68736233/88461437-b0ea8b00-cecd-11ea-999d-b7b0d3938c5f.png)
 
  Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí hay được biết đến là một hệ điều hành nguồn mở dựa trên Unix.  Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác.
+ 
+ ========
 
   3. Các distro của Linux :
 
@@ -27,6 +31,8 @@ Unix / Linux
   - Mageia/Mandriva : Mageia với thiết kế linh hoạt, gọn nhẹ, đơn giản hết mức có thể. Mageia được xem là “tiền bối” trong số các bản phân phối của Linux. Bên cạnh đó, Mageia còn cung cấp các tệp cấu hình sạch được thiết kế giúp người dùng chỉnh sửa một cách dễ dàng.
   - Slackware Linux : Slackware là bản phân phối lâu đời nhất của của Linux, hiện vẫn được duy trì sử dụng và đều đặn đưa ra các bản phát hành mới.
   - Puppy Linux : Puppy Linux là một bản phân phối khá nổi tiếng của Linux được phát triển dựa trên Slackware. Puppy Linux được thiết kế để trở thành một hệ điều hành nhỏ, nhẹ, có khả năng hoạt động mượt trên các máy tính cũ.
+  
+  ========
 
   4.Kernel trong Linux :
   - Kernel là một chương trình máy tính điều khiển mọi thứ khác, nó là hạt nhân - trái tim của hệ điều hành! Bất cứ điều gì xảy ra trên máy tính đều đi qua nó. Đó là chương trình cốt lõi trong hệ điều hành, cũng là chương trình đầu tiên tải sau bộ nạp khởi động. 
@@ -50,11 +56,11 @@ Unix / Linux
    ![Alt tag](https://user-images.githubusercontent.com/68736233/88463418-dd59d380-cedc-11ea-956e-f7f96b90c403.png)
     Hình minh họa các Ring trong kiến trúc CPU
 
-   -Nhân Linux chỉ sử dụng 0 và 3:
+   - Nhân Linux chỉ sử dụng 0 và 3:
 
      - 0 cho nhân
      - 3 cho người dùng
 
    - Kernel là một đoạn mã, quản lý phần cứng của bạn và cung cấp sự trừu tượng hóa hệ thống. Vì vậy, nó cần phải có quyền truy cập cho tất cả các hướng dẫn máy. Hơn nữa nó là phần mềm đáng tin cậy nhất. Vì vậy nên được thực hiện với đặc quyền cao nhất. Và Cấp độ 0 là chế độ đặc quyền nhất. Cấp độ vòng 0 cũng được gọi là Chế độ hạt nhân.
-   -Ứng dụng người dùng là một phần mềm đến từ bất kỳ nhà cung cấp bên thứ ba nào và bạn không thể hoàn toàn tin tưởng vào họ. Ai đó có ý định xấu có thể viết mã để đánh sập hệ thống của bạn nếu anh ta có quyền truy cập hoàn toàn vào tất cả các hướng dẫn máy. Vì vậy, ứng dụng nên được cung cấp quyền truy cập vào bộ hướng dẫn giới hạn. Và Cấp độ 3 là chế độ ít đặc quyền nhất. Vì vậy, tất cả các ứng dụng của bạn chạy trong chế độ đó. Do đó, Cấp độ 3 cũng được gọi là Chế độ người dùng.
+   - Ứng dụng người dùng là một phần mềm đến từ bất kỳ nhà cung cấp bên thứ ba nào và bạn không thể hoàn toàn tin tưởng vào họ. Ai đó có ý định xấu có thể viết mã để đánh sập hệ thống của bạn nếu anh ta có quyền truy cập hoàn toàn vào tất cả các hướng dẫn máy. Vì vậy, ứng dụng nên được cung cấp quyền truy cập vào bộ hướng dẫn giới hạn. Và Cấp độ 3 là chế độ ít đặc quyền nhất. Vì vậy, tất cả các ứng dụng của bạn chạy trong chế độ đó. Do đó, Cấp độ 3 cũng được gọi là Chế độ người dùng.
 
