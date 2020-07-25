@@ -2,7 +2,7 @@
 Unix / Linux
 ============
 
-- 1. Unix là gì?
+  1. Unix là gì?
 
 ![Alt tag](https://github.com/phuongnguyentrong98/Unix-Linux/issues/1#issue-665612698)
 
@@ -10,7 +10,7 @@ Unix / Linux
  - Unix là một hệ điều hành đa nhiệm, viết bằng ngôn ngữ lập trình C. Unix có các công cụ đơn giản được thiết lập theo module. Chúng có thể chạy trên nhiều loại máy tính khác nhau.
  - Hệ điều hành Unix là tập hợp các chương trình mà thực hiện vai trò như một đường link giữa máy tính và người sử dụng. Các chương trình máy tính phân cấp các nguồn hệ thống và phối hợp tất cả các phần bên trong của máy tính được gọi là Hệ điều hành hoặc kernel.Hiện nay có khá nhiều phiên bản khác nhau của Unix trên thị trường. Trong đó Linux là một phiên bản miễn phí của hệ điều hành này.
 
-- 2. Linux là gì?
+  2. Linux là gì?
 
 ![Alt tag](https://github.com/phuongnguyentrong98/Unix-Linux/issues/2#issue-665613158)
 
@@ -28,7 +28,7 @@ Unix / Linux
   - Slackware Linux : Slackware là bản phân phối lâu đời nhất của của Linux, hiện vẫn được duy trì sử dụng và đều đặn đưa ra các bản phát hành mới.
   - Puppy Linux : Puppy Linux là một bản phân phối khá nổi tiếng của Linux được phát triển dựa trên Slackware. Puppy Linux được thiết kế để trở thành một hệ điều hành nhỏ, nhẹ, có khả năng hoạt động mượt trên các máy tính cũ.
 
-- 3.Kernel trong Linux :
+  3.Kernel trong Linux :
   - Kernel là một chương trình máy tính điều khiển mọi thứ khác, nó là hạt nhân - trái tim của hệ điều hành! Bất cứ điều gì xảy ra trên máy tính đều đi qua nó. Đó là chương trình cốt lõi trong hệ điều hành, cũng là chương trình đầu tiên tải sau bộ nạp khởi động. 
   - Với hầu hết các kernel hiện nay, chúng ta có thể chia ra làm 3 loại: Monolithic Kernel (Kernel nguyên khối), Microkernel (Kernel vi mô ), và HybridKernel ( Kernel lai ).
   - Linux sử dụng kernel monolithic có :
