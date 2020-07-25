@@ -16,7 +16,7 @@ Unix / Linux
 
  Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí hay được biết đến là một hệ điều hành nguồn mở dựa trên Unix.  Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác.
 
- - Các distro của Linux :
+  3. Các distro của Linux :
 
   - Ubuntu : là bản phân phối hiện đại, được người dùng biết đến nhiều nhất của Linux. Mục tiêu Ubuntu là mang lại cho user trải nghiệm tốt nhất trên máy tính và máy chủ.
   - Linux Mint : là một trong những bản phân phối được yêu thích nhất của Linux được xây dựng trên nền tảng Ubuntu. Do đó, Linux Mint kế thừa hầu hết các phương tiện và phần mềm sở hữu độc quyền của “đàn anh” này.
@@ -28,7 +28,7 @@ Unix / Linux
   - Slackware Linux : Slackware là bản phân phối lâu đời nhất của của Linux, hiện vẫn được duy trì sử dụng và đều đặn đưa ra các bản phát hành mới.
   - Puppy Linux : Puppy Linux là một bản phân phối khá nổi tiếng của Linux được phát triển dựa trên Slackware. Puppy Linux được thiết kế để trở thành một hệ điều hành nhỏ, nhẹ, có khả năng hoạt động mượt trên các máy tính cũ.
 
-  3.Kernel trong Linux :
+  4.Kernel trong Linux :
   - Kernel là một chương trình máy tính điều khiển mọi thứ khác, nó là hạt nhân - trái tim của hệ điều hành! Bất cứ điều gì xảy ra trên máy tính đều đi qua nó. Đó là chương trình cốt lõi trong hệ điều hành, cũng là chương trình đầu tiên tải sau bộ nạp khởi động. 
   - Với hầu hết các kernel hiện nay, chúng ta có thể chia ra làm 3 loại: Monolithic Kernel (Kernel nguyên khối), Microkernel (Kernel vi mô ), và HybridKernel ( Kernel lai ).
   - Linux sử dụng kernel monolithic có :
