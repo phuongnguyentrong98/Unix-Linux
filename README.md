@@ -2,6 +2,7 @@
 Unix / Linux
 ============
 
+
   1. Unix là gì?
 
 ![Alt tag](https://user-images.githubusercontent.com/68736233/88461411-6c5eef80-cecd-11ea-9101-526927762a34.png)
@@ -10,15 +11,13 @@ Unix / Linux
  - Unix là một hệ điều hành đa nhiệm, viết bằng ngôn ngữ lập trình C. Unix có các công cụ đơn giản được thiết lập theo module. Chúng có thể chạy trên nhiều loại máy tính khác nhau.
  - Hệ điều hành Unix là tập hợp các chương trình mà thực hiện vai trò như một đường link giữa máy tính và người sử dụng. Các chương trình máy tính phân cấp các nguồn hệ thống và phối hợp tất cả các phần bên trong của máy tính được gọi là Hệ điều hành hoặc kernel.Hiện nay có khá nhiều phiên bản khác nhau của Unix trên thị trường. Trong đó Linux là một phiên bản miễn phí của hệ điều hành này.
  
- ========
-
+ 
   2. Linux là gì?
 
 ![Alt tag](https://user-images.githubusercontent.com/68736233/88461437-b0ea8b00-cecd-11ea-999d-b7b0d3938c5f.png)
 
  Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí hay được biết đến là một hệ điều hành nguồn mở dựa trên Unix.  Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác.
  
- ========
 
   3. Các distro của Linux :
 
@@ -32,7 +31,6 @@ Unix / Linux
   - Slackware Linux : Slackware là bản phân phối lâu đời nhất của của Linux, hiện vẫn được duy trì sử dụng và đều đặn đưa ra các bản phát hành mới.
   - Puppy Linux : Puppy Linux là một bản phân phối khá nổi tiếng của Linux được phát triển dựa trên Slackware. Puppy Linux được thiết kế để trở thành một hệ điều hành nhỏ, nhẹ, có khả năng hoạt động mượt trên các máy tính cũ.
   
-  ========
 
   4.Kernel trong Linux :
   - Kernel là một chương trình máy tính điều khiển mọi thứ khác, nó là hạt nhân - trái tim của hệ điều hành! Bất cứ điều gì xảy ra trên máy tính đều đi qua nó. Đó là chương trình cốt lõi trong hệ điều hành, cũng là chương trình đầu tiên tải sau bộ nạp khởi động. 
