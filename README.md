@@ -9,7 +9,7 @@ Unix / Linux
 
  - UNIX là một hệ điều hành máy tính viết vào những năm 1960 và 1970 do một số nhân viên của công ty AT&T Bell Labs.
  - Unix là một hệ điều hành đa nhiệm, viết bằng ngôn ngữ lập trình C. Unix có các công cụ đơn giản được thiết lập theo module. Chúng có thể chạy trên nhiều loại máy tính khác nhau.
- - Hệ điều hành Unix là tập hợp các chương trình mà thực hiện vai trò như một đường link giữa máy tính và người sử dụng. Các chương trình máy tính phân cấp các nguồn hệ thống và phối hợp tất cả các phần bên trong của máy tính được gọi là Hệ điều hành hoặc kernel.Hiện nay có khá nhiều phiên bản khác nhau của Unix trên thị trường. Trong đó Linux là một phiên bản miễn phí của hệ điều hành này.
+ - Hệ điều hành Unix là tập hợp các chương trình mà thực hiện vai trò như một đường link giữa máy tính và người sử dụng. Các chương trình máy tính phân cấp các nguồn hệ thống và phối hợp tất cả các phần bên trong của máy tính được gọi là Hệ điều hành hoặc kernel.Hiện nay có khá nhiều phiên bản khác nhau của Unix trên thị trường.
  
  
   2. Linux là gì?
@@ -17,6 +17,8 @@ Unix / Linux
 ![Alt tag](https://user-images.githubusercontent.com/68736233/88461437-b0ea8b00-cecd-11ea-999d-b7b0d3938c5f.png)
 
  Hệ điều hành Linux được phát triển dựa vào hệ điều hành Unix và được phát hành miễn phí hay được biết đến là một hệ điều hành nguồn mở dựa trên Unix.  Server Linux thường được sử dụng nhiều hơn là Windows hay bất kì hệ điều hành nào khác.
+ 
+ Hệ thống dựa trên Linux là một hệ điều hành tương tự Unix được mô-đun hóa, Các thiết kế của hệ thống này dựa trên một phần của thiết kế Unix nguyên thủy ra đời vào khoảng 1970 đến 1980. Một hệ thống như vậy sử dụng hạt nhân nguyên khối, Linux kernel,xử lý kiểm soát quá trình, kết nối mạng, truy cập vào các thiết bị ngoại vi và hệ thống file. Các trình điều khiển thiết bị cũng được tích hợp trực tiếp vào nhân như một mô-đun được tải lúc hệ thống chạy.
  
 
   3. Các distro của Linux :
