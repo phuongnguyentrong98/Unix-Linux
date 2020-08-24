@@ -1,7 +1,13 @@
 
 # Scheduling Tasks
 I Mục Lục :
+1 Giới thiệu 
+2 Định cấu hình cron
+3 Managing the cron Service
+4 Anacron
+
 II Scheduling Tasks:
+
 1 Giới thiệu :
 -Trên máy chủ Linux, điều quan trọng là các tác vụ nhất định phải chạy vào những thời điểm nhất định. Điều này có thể được thực hiện bằng cách sử dụng các dịch vụ atd và crond
 -Chúng có thể được cấu hình để chạy các tác vụ trong tương lai. Dịch vụ atd chỉ để thực thi các tác vụ trong tương lai một lần, dịch vụ crond dành cho các tác vụ thường xuyên lặp lại.
@@ -11,6 +17,7 @@ II Scheduling Tasks:
 - Dịch vụ cron bao gồm hai thành phần chính. Đầu tiên, đó là daemon cron. Daemon này xem xét từng phút để xem liệu có việc phải làm hay không. Điều này được xác định trong cấu hình cron, bao gồm nhiều tệp làm việc cùng nhau để cung cấp thông tin phù hợp cho đúng dịch vụ thời gian. Trong phần này, bạn học cách cấu hình cron.
 - Các công việc trên được gọi là cronjob .
 - Crontab (CRON TABLE) là một file chứa đựng trong nó các bảng biểu (schedule) và cronjob cần chạy cũng như thời gian chạy của nó.
+
 3 Managing the cron Service:
 
 3.1 Cài đặt cron:
